@@ -1,0 +1,11 @@
+
+t
+java:S3008"YRename this field "AGENCIA_PADRAO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÔ¯³úÿÿÿÿ
+p
+java:S3008"URename this field "SEQUENCIAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞËçßúÿÿÿÿ
+O
+java:S5993"9Change the visibility of this constructor to "protected".(ÇŸğã
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(Ó„¢
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(Õ¬¦Şÿÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(‹åºÖ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(ğşïš
